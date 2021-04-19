@@ -1,0 +1,28 @@
+blind sql injection
+file inclusion
+ssrf
+open redirect
+command injection
+remote code execution
+signature detection
+
+ssti
+misconfiguration
+OAuth
+SSO
+IDOR
+XSS
+
+
+Cloud
+
+Azure AD
+
+GraphQL
+
+
+DevSecOps
+
+crawler
+
+0-day
